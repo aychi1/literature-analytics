@@ -1,0 +1,86 @@
+body {
+  background-color: #E7AB9A;
+  color: #617143;
+  font-family: 'Lucida Sans', monospace;
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  text-align: center;
+}
+
+h1 {
+  color: #ffff;
+  font-family: 'Sacramento', sans-serif;
+  font-weight:900;
+  margin-top: 40px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.axis {
+  font: 10px monospace;
+}
+
+.axis path, .axis line {
+  fill: none;
+  stroke: #D4D8DA;
+  stroke-width: 2px;
+  shape-rendering: crispEdges;
+}
+
+.line {
+  fill: none;
+  stroke-width: 2px;
+}
+
+.navbar-brand {
+  height: 60px;
+  padding: 5px 0px;
+}
+
+.overlay {
+  fill: none;
+  pointer-events: all;
+}
+
+.line {
+  fill: none;
+  stroke-width: 3px;
+  stroke: grey;
+}
+
+.title {
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+#chart-area-1 svg {
+  fill: #D4D8DA;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  display: none;
+}
+
+#chart-area-2 svg {
+  fill: #D4D8DA;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  display: none;
+}
+
+#info-button {
+  cursor:default;
+}
+
+#selections {
+  padding-left: 20%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin: auto;
+  text-align:center;
+}

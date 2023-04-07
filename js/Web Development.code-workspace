@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../../Downloads/6.10.0"
+		},
+		{
+			"path": "../../../../../node_modules/d3-tip"
+		}
+	],
+	"settings": {}
+}
